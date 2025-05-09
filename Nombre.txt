@@ -1,1 +1,1 @@
-codechekcer.py
+codechecker.py
